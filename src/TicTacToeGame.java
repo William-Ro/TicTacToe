@@ -13,6 +13,7 @@ public class TicTacToeGame implements ActionListener {
     int chance_flag = 0;
     Random random = new Random();
     boolean pl1_chance;
+    
 
     TicTacToeGame() {
 
